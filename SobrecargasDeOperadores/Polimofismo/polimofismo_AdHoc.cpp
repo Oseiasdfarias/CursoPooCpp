@@ -18,7 +18,6 @@ class A
         {
             return a + b + c;
         }
-
 };
 
 int main(int argc, char const *argv[])
